@@ -1,4 +1,4 @@
-module github.com/barnabassol/stringmod
+module github.com/barnabasSol/stringmod
 
 go 1.22.5
 
